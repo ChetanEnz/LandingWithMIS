@@ -12,12 +12,14 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #03a5f0;
+  background: #91d1ee;
+  /* background: #03a5f0; */
 }
 
 .slider{
   position: relative;
-  background: #03a5f0;
+  background: #91d1ee;
+  /* background: #03a5f0; */
   width: 80%;
   /* Made Change- 500px */
   min-height: 85%;
